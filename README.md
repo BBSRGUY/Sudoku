@@ -2,8 +2,6 @@
 
 # Creative Sudoku Grid
 
-Here's a creative Sudoku grid for your README.md file:
-
 <table>
   <tr>
     <td style="background-color: #f0f0f0; text-align: center;">5</td>
