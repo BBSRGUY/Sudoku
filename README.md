@@ -151,13 +151,13 @@ To run this project locally, you'll need:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sudoku-solver-hacker-theme.git
+   git clone https://github.com/BBSRguy/Sudoku.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd  sudoku-solver-hacker-theme
+   cd  Sudoku
    ```
 
 3. **Open `index.html` in Your Browser**:
